@@ -2,6 +2,29 @@
   text-align: center;
 }
 
+.title {
+  text-align: center;
+}
+
+.movies {
+  display: flex;
+  justify-content: space-around;
+  padding: 25px 25px;
+  margin: 25px 25px;
+}
+
+.nicolas {
+  padding: 25px 25px;
+  margin: 25px 25px;
+  background-color: aqua;
+}
+
+.keanu {
+  padding: 25px 25px;
+  margin: 25px 25px;
+  background-color: red;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
